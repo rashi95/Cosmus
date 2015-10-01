@@ -1,0 +1,47 @@
+.s_lang
+{
+position:absolute;
+width:30%;
+margin-top: 4%; 
+left:11.5%;
+font-size: 17px;
+}
+.s_level
+{
+position:absolute;
+width:30%;
+margin-top: 15%;
+left:11.5%;
+font-size: 17px;
+}
+
+.u_source
+{
+position:relative;
+top:30%;
+margin: 2% 2% 2% 60%;
+}
+.u_bug
+{
+position:relative;
+
+margin: 2% 2% 2% 60%;
+}
+.my_submit
+{
+position:relative;
+
+margin: 2% 2% 2% 60%;
+}
+.u_delete
+{
+position:relative;
+
+margin: 2% 2% 10% 60%;
+}
+
+
+
+
+
+

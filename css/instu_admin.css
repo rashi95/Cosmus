@@ -1,0 +1,53 @@
+#popup_source_help, #popup_bug_help {
+position:absolute;
+left:80%;
+display:none;     
+    margin-left:-202px;
+    background-color:#fff;
+    max-width:400px;
+    min-width:300px;
+    padding:10px 10px;
+    border:1px solid rgba(0,0,0,0.1);
+     
+}
+#popup_source_help {
+top:10%;
+left: 40%;
+display:none;    
+}
+#popup_bug_help {
+top:10%;
+left:40%;
+
+display:none;    
+}
+h4#heading {
+	padding: 8px;
+		 
+       	       
+}
+img#close {
+position:absolute;
+right:-14px;
+top:-14px;
+cursor:pointer
+}
+#list2 ol {  font-size:15px; }
+#list2 ol li { }
+#list2 ol li p { padding:8px; font-size:13px; color:#eee; border-left: 1px solid #999; }
+#list2 ol li p em { display:block; }
+body {
+	  
+	   background: #444444
+	  url("http://pixbim.com/wp-content/uploads/2014/07/grey-backgrounds-for-tumblr.jpg") repeat fixed;
+           background-size: 100% 100%;		       
+		font-family: Unica One;
+		color: black;
+		
+}
+#container{
+	background-color: white;
+	opacity:0.9;
+	color: black;
+	border-radius: 10px; 
+}

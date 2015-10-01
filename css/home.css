@@ -1,0 +1,214 @@
+#navbarul {
+    position:absolute;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float:right;
+    overflow: hidden;
+    font-size: large;
+    border-bottom-left-radius: 20px;
+    background-color: #D6D6D6;
+    right: 0px;
+    top: 0px;
+}
+.navbarli{
+    float: left
+}
+
+.nav{
+    border-bottom-radius: 20px;
+    display: block;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    height: 35px;
+    width: 200px;
+    background-color: #D6D6D6;
+    font-weight: bold;
+    font-family: 'Coda';
+    color: black;
+    font-size: medium;
+    text-decoration: none;
+    text-align: center;
+}
+input[type="submit"]{
+    display: block;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 200px;
+    background-color: #D6D6D6;
+    font-weight: bold;
+    font-family: 'Coda';
+    color: black;
+    font-size: medium;
+    text-decoration: none;
+    text-align: center;
+    border-width: 0;
+}
+.nav:hover, .nav:active{
+    /*background-color: #819191;*/
+    border-bottom: black;
+    color: white;
+}
+img{
+    position: absolute;
+    top: 30%;
+    left: 0;
+    overflow:hidden;
+}
+.header{
+    position: absolute;
+    left: 35em;
+    top: 2em;
+    font-family: 'Coda';
+    font-size: 30px;
+    overflow:hidden;
+}
+#em_pass_1{
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    font-family: 'Coda';
+    width: 30em;
+    font-size: medium;
+    line-height: 10px;
+}
+#em_pass{
+    position: absolute;
+    left: 270px;
+    top: 50px;
+    font-family: 'Coda';
+    color: red;
+    width: 30em;
+    font-size: medium;
+}
+#email{
+    position:absolute;
+    top: 290px;
+    left: 570px;
+    font-family: 'Coda';
+}
+#passwd{
+    position:absolute;
+    top: 340px;
+    left: 540px;
+    font-family: 'Coda';
+}
+#login_b{
+    position:absolute;	
+    top: 450px;
+    left: 450px;
+}
+#signup_b{
+    position:absolute;
+    top: 450px;
+    left: 750px;
+}
+#signup1_b{
+    position: absolute;
+    top: 95%;
+    left:10%;
+}
+.button{
+    top: 50%;
+    left: 85%;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+.button2{
+    position: absolute;
+    top: 39%;
+    left:80%;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.button2:hover{
+    background-color: black;
+    color: white;
+}
+#r1{
+    position: absolute;
+    top: 170px;
+    line-height: 30px;
+    left: 50px;
+}
+
+p{
+    font-family: 'Coda';
+    font-size: medium;
+    color: black;
+}
+#choice{
+    position: absolute;
+    top: 250px;
+    left: 400px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Coda';
+    font-weight: 30px}
+input[name="mysubmit"]{
+    position: absolute;
+    top: 500px;
+    left: 550px;
+    font-size: 20px;
+    font-weight: 10px;
+}
+option{
+    font-family:'Coda';
+}
+#upload{
+    position: absolute;
+    top: 30%;
+    left: 140px;
+    color: black;
+    font-size: 20px;
+    font-family: 'Coda';
+    font-weight: bold;    
+}
+#admin{
+    opacity: 0.6 ;
+}
+input[name="upload_b"]{
+    position: absolute;
+top: 89%;
+    left:80%;
+    font-weight: bold;
+}
+#upload_text{
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    font-family:'Coda';
+    font-size: x-large;
+    color:white;
+}
+#members{
+    position: absolute;
+    color: white;
+    font-family:'Coda';
+    font-size: large;
+    top: 40%;
+    left:40%;
+}
+table tr td{
+    margin: 40 40 40 40;
+    color: white;
+}
+#startgame_b{
+    position: absolute;
+    top: 1000px;
+    left: 20%;
+}
+#back_b{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+}
+#errors_upload{
+	position: absolute;
+	top: 10%;
+	left: 40%;
+}

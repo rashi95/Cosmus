@@ -1,0 +1,19 @@
+body { padding-top:30px;
+       background: #FFFFFF; 
+}
+.form-control { margin-bottom: 10px; }
+
+
+.position
+{
+position:absolute;
+left:400px;
+top:100px;
+}
+
+.login
+{
+position:absolute;
+top:10px;
+right:100px;
+}
